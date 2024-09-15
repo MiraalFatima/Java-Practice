@@ -1,0 +1,3 @@
+John: Average Marks = 85.75, Highest Mark = 92, Lowest Mark = 78, Grade = A
+Alice: Average Marks = 81.25, Highest Mark = 90, Lowest Mark = 70, Grade = A-
+Bob: Average Marks = 78.75, Highest Mark = 82, Lowest Mark = 75, Grade = B+
